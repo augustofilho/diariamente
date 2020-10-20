@@ -1,2 +1,3 @@
 # diariamente
-Programas em R, Julia, C, Python diários 
+
+Aplicações de ferramentas estatísticas usando as linguagens, R, Julia, Python e C.
